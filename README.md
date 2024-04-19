@@ -1,3 +1,11 @@
 # Amazon-FirstPage-clone-Project
 
-This project created from local system.
+## Introduction
+
+This project is a small-scale version of Amazon and was created for educational purposes.
+
+## Languages
+
+- HTML
+- CSS
+
